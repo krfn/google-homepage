@@ -1,0 +1,1 @@
+This is my first assignment for the Odin Project under its Foundations course. My task is to build a replica of the Google homepage using the basic principles of HTML/CSS. The objective is to create an output that applies my current learnings on web development.
